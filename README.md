@@ -27,4 +27,4 @@ and track their completion status.
 - Display habit completion statistics.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
